@@ -4,7 +4,7 @@ Latest *important* update made on: May 10th, 2023
 
 ## Overview 
 <p> ScheduPaper is a web application designed to help students pinpoint important time-marks within the writing process. The application takes in information about the essay, and its final deadline, and recommend a timeline based on the user's work preference. </p>
-<p>The goal of the application is to help students visualize the approximate time needed to complete their essays, as well as</p>
+<p>The goal of the application is to help students visualize the approximate time needed to complete their essays using a simple user friendly platform </p>
 <p><em>Visit ScheduPaper at:</em> https://cyborf.github.io/ScheduPaper/</p>
 
 ## Current Functionalities
